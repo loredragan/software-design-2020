@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assignment_2.AdminsMenuWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>AdminsMenuWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.App" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.AuthenticationWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AuthenticationWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.UsersMenuWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UsersMenuWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Models.BaseModel" Collapsed="true">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BaseModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.Models.Assignment2Entities" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Models.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.Models.Ad" Collapsed="true">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAiIAAAAACAAAAAIAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Ad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.Models.Admin" Collapsed="true">
+    <Position X="8.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAEAAAAAAIAAAAAAAgAAAgA=</HashCode>
+      <FileName>Models\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.Models.User" Collapsed="true">
+    <Position X="3.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAEAAAAEAIAAAAAAAgAAAgA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.Models.Repository.Repository&lt;TModel&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAACAABQAAAAASIAAAAAEAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Models\Repository\Repository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Properties.Resources" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.Properties.Settings" Collapsed="true">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModel.Exceptions.FailedAuthenticationException" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Exceptions\FailedAuthenticationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.Exceptions.InvalidInputException" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Exceptions\InvalidInputException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.Exceptions.NoResultException" Collapsed="true">
+    <Position X="23.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Exceptions\NoResultException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AdminGenerateReportsHelper" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>ViewModels\HelperClasses\AdminGenerateReportsHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AdminGenerateReportsValidator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\AdminGenerateReportsValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AdminManageUsersAdsHelper" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAACABAAAAAAAg=</HashCode>
+      <FileName>ViewModels\HelperClasses\AdminManageUsersAdsHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AdminManageUsersAdsValidator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgBAAAAAAAAAABAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\AdminManageUsersAdsValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AdminManageUsersHelper" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAACABAAAAAAAg=</HashCode>
+      <FileName>ViewModels\HelperClasses\AdminManageUsersHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AdminManageUsersValidator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgBAAAAAAAAAABAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\AdminManageUsersValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AdsFilter" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\AdsFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.AuthenticationPageHelper" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ViewModels\HelperClasses\AuthenticationPageHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.FileCreator" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\FileCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.FileFactory" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\FileFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.LinqToCSV" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\LinqToCSV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.OnCreateValidateAd" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\OnCreateValidateAd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.PDFFactory" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\PDFFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.PDFFile" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAACAAIAAAAAQAAAAEAAAAAAAAAAAEA=</HashCode>
+      <FileName>ViewModels\HelperClasses\PDFFile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.RegularUserManageAdsHelper" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAgCABAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\RegularUserManageAdsHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.TXTFactory" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\TXTFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.TXTFile" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAACAAAAAAAEQAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ViewModels\HelperClasses\TXTFile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.HelperClasses.UserManagePersonalAdsValidator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgBAAAAAAAAAABAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\UserManagePersonalAdsValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.Pages.AdminGenerateReportsPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAAAAAAAEAABAAAAAQEAAAAAAAgAAQEAQAAAA=</HashCode>
+      <FileName>Views\Pages\Admin\AdminGenerateReportsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.Pages.AdminManageUsersAdsPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAESAAQAAAAAAEAAAAAAAAQGABAEAAAgAAAEQQAAAA=</HashCode>
+      <FileName>Views\Pages\Admin\AdminManageUsersAdsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.Pages.AdminManageUsersPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAASAAQAAAABAEAAAAAAAAQGABAEAAAgAAAEQQAAAA=</HashCode>
+      <FileName>Views\Pages\Admin\AdminManageUsersPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.Pages.ListModelsPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Pages\ListModelsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.Pages.RegularUserManagePersonalAdsPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAESAAQAgAAAAAAAAAAAAAQGABAEAAAgAAAEQQAAAA=</HashCode>
+      <FileName>Views\Pages\RegularUser\RegularUserManagePersonalAdsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.Pages.RegularUserSearchAdsPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEQEAQAgAAAAAAAAAAAAAQEAAAAAAAgAAAEAQAAAA=</HashCode>
+      <FileName>Views\Pages\RegularUser\RegularUserSearchAdsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.HelperClasses.FilterValidator&lt;TModel&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\FilterValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.Views.HelperClasses.RequestBuilder" Collapsed="true">
+    <Position X="23.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\HelperClasses\RequestBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.Views.HelperClasses.SecurityConnectorValidator" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\HelperClasses\SecurityConnectorValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.Views.HelperClasses.WPFMessageBoxService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\HelperClasses\WPFMessageBoxService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.ViewModel.HelperClasses.SecurityConnector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAACAABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\SecurityConnector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.ViewModel.HelperClasses.ValidationResult" Collapsed="true">
+    <Position X="16.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\ValidationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.ViewModels.Admin.AdminGenerateReportsViewModel" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModels\Admin\AdminGenerateReportsViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.ViewModels.Admin.AdminManageUsersAdsViewModel" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAABAAAAAgAg=</HashCode>
+      <FileName>ViewModels\ViewModels\Admin\AdminManageUsersAdsViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.ViewModels.Admin.AdminManageUsersViewModel" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAABAAAAAgAg=</HashCode>
+      <FileName>ViewModels\ViewModels\Admin\AdminManageUsersViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.AdminViewModel&lt;TModel&gt;" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAoAAmAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModels\Admin\AdminViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.ViewModel.ViewModels.AuthenticationViewModel" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAEAAAAAAAAEAAAAAAAACAAAAAAAQAAgQAAQ=</HashCode>
+      <FileName>ViewModels\ViewModels\AuthenticationViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment_2.ViewModels.ViewModels.RegularUserManageAdsViewModel" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAABAAAAAgAg=</HashCode>
+      <FileName>ViewModels\ViewModels\RegularUser\RegularUserManageAdsViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.ViewModels.RegularUserSearchAdsViewModel" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModels\RegularUser\RegularUserSearchAdsViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.ViewModels.ViewModels.RegularUserViewModel&lt;TModel&gt;" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAoAAmAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModels\RegularUser\RegularUserViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment_2.View.HelperClasses.Command" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAACAAQAAEAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Views\HelperClasses\Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.View.HelperClasses.Command&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAACAAQAAEAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Views\HelperClasses\Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.View.HelperClasses.WPFDisplayWindowService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Views\HelperClasses\WPFDisplayWindowService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.View.Pages.AdminsMenuPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAABAAAIAACAAAAAAIAAAEIAAAAYBgAAAAEA=</HashCode>
+      <FileName>Views\Pages\AdminsMenuPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.View.Pages.AuthenticationPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAEIAAAAAAAAAAAIAAAAgAAACAAABAAAAIAAAEA=</HashCode>
+      <FileName>Views\Pages\AuthenticationPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.View.Pages.SelectUserTypePage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAEAAAAAAAAACgAAAQAAEAAAAEA=</HashCode>
+      <FileName>Views\Pages\SelectUserTypePage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Assignment_2.View.Pages.UsersMenuPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAABAAgAAAAAAAAAAAAACAIAgAAgAAAAAAUA=</HashCode>
+      <FileName>Views\Pages\UsersMenuPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Assignment_2.Model.IModel" Collapsed="true">
+    <Position X="18.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.Models.Repository.Interfaces.ICommand&lt;TModel&gt;" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAACAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Repository\Interfaces\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.Models.Repository.Interfaces.IRead&lt;TModel&gt;" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Models\Repository\Interfaces\IRead.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.Models.Repository.Interfaces.IRepository&lt;TModel&gt;" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Repository\Interfaces\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.Models.Repository.ISave&lt;TModel&gt;" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Repository\Interfaces\ISave.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.ViewModels.Interfaces.ICrudValidator" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgBAAAAAAAAAABAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Interfaces\ICrudValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.ViewModels.Interfaces.IFile" Collapsed="true">
+    <Position X="15" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Interfaces\IFile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.ViewModels.Interfaces.IFilterValidator&lt;TModel&gt;" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Interfaces\IFilterValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.ViewModels.Interfaces.IReportsValidator" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Interfaces\IReportsValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.ViewModels.Interfaces.IValidator" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Interfaces\IValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.ViewModel.Interfaces.ISecurityConnector" Collapsed="true">
+    <Position X="20.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Interfaces\ISecurityConnector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.View.Interfaces.IDisplayWindowService" Collapsed="true">
+    <Position X="13.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Views\Interfaces\IDisplayWindowService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_2.Views.Interfaces.IMessageBoxService" Collapsed="true">
+    <Position X="16.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Interfaces\IMessageBoxService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Assignment_2.Views.Pages.FileTypes" Collapsed="true">
+    <Position X="13.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ViewModels\HelperClasses\FileType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

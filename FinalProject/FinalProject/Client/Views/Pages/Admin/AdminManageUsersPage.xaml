@@ -1,0 +1,35 @@
+﻿<Page x:Class="Client.Views.Pages.Admin.AdminManageUsersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Client.Views.Pages.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminManageUsersPage"
+      Background="AliceBlue">
+
+    <Grid Name="AdminManageUsers">
+        <Label Content="ID" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,15,0,0" Foreground="Black"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.109,0.231" Foreground="Black"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="15,71,0,0" VerticalAlignment="Top" Foreground="Black"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="15,99,0,0" VerticalAlignment="Top" Foreground="Black"/>
+        <TextBox x:Name="id" PreviewTextInput="PreviewTextInput"  HorizontalAlignment="Left" Height="22" Margin="123,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="username" HorizontalAlignment="Left" Height="23" Margin="123,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="password"  HorizontalAlignment="Left" Height="23" Margin="123,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="name"  HorizontalAlignment="Left" Height="23" Margin="123,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Ad New User" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="97,168,0,0" Height="32" Click="Button_AddNewModel" />
+        <Button Content="List Users" HorizontalAlignment="Left" Margin="265,25,0,0" VerticalAlignment="Top" Width="122" Height="22" Click="Button_ListModels"/>
+        <Button Content="Update User" HorizontalAlignment="Left" Margin="265,54,0,0" VerticalAlignment="Top" Width="122" Click="Button_UpdateModel" />
+        <Button Content="Find by ID" HorizontalAlignment="Left" Margin="265,82,0,0" VerticalAlignment="Top" Width="122" Click="Button_FindByIdModel"/>
+        <Button Content="Delete User" HorizontalAlignment="Left" Margin="265,110,0,0" VerticalAlignment="Top" Width="122" Click="Button_DeleteByIdModel"/>
+        
+
+
+        <!--Update Subscription-->
+        <Label Content="Update Subscription:" HorizontalAlignment="Left" Margin="15,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.563,-0.788" FontSize="30"/>
+        <Label Content="subscription" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,283,0,0" Foreground="Black"/>
+        <TextBox x:Name="subscription" PreviewTextInput="PreviewTextInputNumbers"  HorizontalAlignment="Left" Height="22" Margin="97,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Update Subscription" HorizontalAlignment="Left" Margin="265,286,0,0" VerticalAlignment="Top" Width="122" Click="Button_UpdateSubscription" Height="23"/>
+    </Grid>
+</Page>

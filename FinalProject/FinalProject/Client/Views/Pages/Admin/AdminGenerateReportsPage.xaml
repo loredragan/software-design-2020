@@ -1,0 +1,18 @@
+﻿<Page x:Class="Client.Views.Pages.Admin.AdminGenerateReportsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Client.Views.Pages.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminGenerateReportsPage"
+      Background="AliceBlue">
+
+    <Grid x:Name="AdminGenerateReports">
+        <Label Content="userID" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,40,0,0" Foreground="Black"/>
+        <TextBox x:Name="userId" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="97,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Generate PDF" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="265,63,0,0" Height="28" Click="Button_GeneratePDF" />
+        <Button Content="Generate CSV" HorizontalAlignment="Left" Margin="265,25,0,0" VerticalAlignment="Top" Width="122" Height="28" Click="Button_GenerateCSV"/>
+    </Grid>
+</Page>

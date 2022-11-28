@@ -1,0 +1,15 @@
+﻿<Page x:Class="Assignment1.Views.SelectUserTypePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assignment1.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="200" d:DesignWidth="600" Background="AliceBlue"
+      Title="SelectUserTypePage">
+    <StackPanel>
+        <Label Margin="240,0,259,0" Content="Select User Type" Height="24"/>
+        <Button Click="BtnAdminUser_Click" x:Name="btnAdminUser" Margin="240,10,0,0" Content="Administrator" Width="89" HorizontalAlignment="Left"/>
+        <Button Click="BtnEmployeeUser_Click" x:Name="btnEmployeeUser" Margin="240,10,0,0" Content="Employee" Width="89" HorizontalAlignment="Left"/>
+    </StackPanel>
+</Page>

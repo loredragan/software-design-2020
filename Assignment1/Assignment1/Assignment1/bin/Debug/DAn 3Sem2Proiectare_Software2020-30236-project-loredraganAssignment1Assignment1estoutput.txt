@@ -1,0 +1,6 @@
+Id	IdEmployee	TransactionType	TransactionDate	SourceTable
+1	1	ListClients	3/29/2020 10:34:00 PM	dbo.clientsinfo
+2	1	ListClients	3/29/2020 10:36:00 PM	dbo.clientsinfo
+3	1	ListClients	3/29/2020 10:39:00 PM	dbo.clientsinfo
+4	1	ListClientById	3/29/2020 10:39:00 PM	dbo.clientsinfo
+5	1	ListClients	3/29/2020 10:56:00 PM	dbo.clientsinfo

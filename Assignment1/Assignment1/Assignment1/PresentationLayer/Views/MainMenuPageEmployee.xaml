@@ -1,0 +1,17 @@
+﻿<Page x:Class="Assignment1.PresentationLayer.Views.MainMenuPageEmployee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assignment1.PresentationLayer.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainMenuPageEmployee"  Background="AliceBlue">
+
+    <Grid >
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Choose Model" VerticalAlignment="Top" Margin="74,31,0,0" Height="44" Width="288" FontSize="28"/>
+        <Button x:Name="ClientsButton" Content ="Clients" HorizontalAlignment="Left" Margin="63,154,0,0" VerticalAlignment="Top" Width="144" Height="35" Click="Button_ClientsActions" />
+        <Button x:Name="AccountsButton" Content="Accounts" HorizontalAlignment="Left" Margin="257,154,0,0" VerticalAlignment="Top" Width="144" RenderTransformOrigin="0.188,0.02" Height="35" Click="Button_AccountsActions"  />
+        <Button x:Name="btnLogout" Content="Logout" HorizontalAlignment="Left" Margin="63,248,0,0" VerticalAlignment="Top" Width="144" Height="35" Click="Button_LogOutAction" />
+    </Grid>
+</Page>

@@ -1,0 +1,20 @@
+﻿Client
+
+
+winexe
+C#
+.cs
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Client\obj\Debug\
+Client
+none
+false
+DEBUG;TRACE
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Client\App.xaml
+14689518370
+
+642062522784
+19458778978
+AdminsMenuWindow.xaml;AuthenticationWindow.xaml;MainWindow.xaml;UsersMenuWindow.xaml;Views\Pages\AdminsMenuPage.xaml;Views\Pages\AuthenticationPage.xaml;Views\Pages\ListModelsPage.xaml;Views\Pages\Admin\AdminGenerateReportsPage.xaml;Views\Pages\Admin\AdminManageUsersAdsPage.xaml;Views\Pages\Admin\AdminManageUsersPage.xaml;Views\Pages\RegularUser\RegularUserManagePersonalAdsPage.xaml;Views\Pages\RegularUser\RegularUserSearchAdsPage.xaml;Views\Pages\SelectUserTypePage.xaml;Views\Pages\UsersMenuPage.xaml;
+
+True
+

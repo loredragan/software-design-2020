@@ -1,0 +1,22 @@
+﻿<Page x:Class="Client.Views.Pages.RegularUser.RegularUserChatsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Client.Views.Pages.RegularUser"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RegularUserChatsPage"
+      Background="AliceBlue">
+
+    <Grid x:Name="RegularUserChats">
+        <!--Send message -->
+        <Label Content="Send Message: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="34,26,0,0" FontSize="30"/>
+        <Label Content="to userID: " HorizontalAlignment="Left" Margin="34,92,0,0" VerticalAlignment="Top" Foreground="Black" RenderTransformOrigin="-1.698,0.531"/>
+        <TextBox x:Name="userId" PreviewTextInput="PreviewTextInput"  HorizontalAlignment="Left" Height="22" Margin="130,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="content: " HorizontalAlignment="Left" Margin="42,150,0,0" VerticalAlignment="Top" Foreground="Black"/>
+        <TextBox x:Name="messageContent"  HorizontalAlignment="Left" Height="171" Margin="130,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Button Content="See Inbox" HorizontalAlignment="Left" Margin="293,352,0,0" VerticalAlignment="Top" Width="122" Click="Button_SeeInbox"/>
+        <Button Content="Send Message" HorizontalAlignment="Left" Margin="130,352,0,0" VerticalAlignment="Top" Width="122" Click="Button_SendMessage"/>
+    </Grid>
+</Page>

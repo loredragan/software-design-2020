@@ -1,0 +1,11 @@
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\bin\Debug\Assignment_3.dll.config
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\bin\Debug\Assignment_3.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\bin\Debug\Assignment_3.pdb
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\bin\Debug\EntityFramework.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\bin\Debug\EntityFramework.SqlServer.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\bin\Debug\EntityFramework.xml
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\bin\Debug\EntityFramework.SqlServer.xml
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.CopyComplete
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\obj\Debug\Assignment_3.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\obj\Debug\Assignment_3.pdb
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment3\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csprojAssemblyReference.cache

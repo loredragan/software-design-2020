@@ -1,0 +1,13 @@
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.dll.config
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.dll.CodeAnalysisLog.xml
+D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.dll.lastcodeanalysissucceeded

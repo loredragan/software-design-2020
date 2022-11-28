@@ -1,0 +1,108 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=216287ef_002D5085_002D49ce_002Db13a_002D831a4ae3940f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestUpdateModelMethod" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;Or&gt;&#xD;
+        &lt;Or&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestUpdateModelMethod&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestAddNewModelMethod&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+        &lt;/Or&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestDeleteModelmethod&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestDeleteModelMethod&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestGetAllModelsMethod&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d889e65_002Dd660_002D4b44_002Db9f7_002D812e9dd155c9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestDeleteModelmethod" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=559c92e2_002Dea85_002D466e_002D9f40_002D61977570eb7b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetAllMethod" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.AdminManageUsersTests.TestGetAllMethod&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB/f:RegularUserSearchAdsTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6bbea673_002Dce21_002D4c16_002Dad77_002D5c5770a6e37f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSearchAllAds #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;Or&gt;&#xD;
+        &lt;Or&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserSearchAdsTests.TestSearchAllAds&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserSearchAdsTests.TestSearchAdsWithFilter&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+        &lt;/Or&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestSearchAllAdsForUser&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestGetModelByIdMethod&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestUpdateModelMethod&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94106793_002Da1c9_002D45f2_002D8fa5_002Dcb8fb83ee3f2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestDeleteModelMethod" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestDeleteModelMethod&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=967a847f_002D87a6_002D4633_002Db3c7_002D2f419938c675/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestDeleteModelMethod #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;Or&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests.TestDeleteModelMethod&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.AdminManageUsersTests.TestGetModelById&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.AdminManageUsersTests.TestUpdateModelMethod&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.AdminManageUsersTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d5590da5_002D15e0_002D44aa_002D85f2_002D169800fc7033/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegularUserManagePersonalAdsTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9b6171e_002Dee6e_002D4709_002Daa2b_002D1219c4018dd0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\An 3\Sem2\Proiectare_Software\2020-30236-project-loredragan\Assignment2\Assignment_2\Tests" Presentation="&amp;lt;Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e49b531c_002D70b6_002D49df_002D884a_002Db2dda0128995/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RegularUserManagePersonalAdsTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserManagePersonalAdsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e95a0d0b_002Dd85f_002D4fc7_002D99e7_002Dea3cd68ef000/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSearchAllAds" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC0FC3B9-BD4A-4E58-8ED8-17A4C0AB35AB::.NETFramework,Version=v4.7.2::Tests.RegularUserSearchAdsTests.TestSearchAllAds&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
